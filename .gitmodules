@@ -32,3 +32,7 @@
 [submodule "react-vite/community/ionic-team/portals"]
 	path = react-vite/community/ionic-team/portals
 	url = https://github.com/ionic-team/portals-starter-react
+[submodule "ionic-svelte"]
+	path = ionic-svelte
+	url = https://github.com/Tommertom/svelte-ionic-app.git
+	branch = master
